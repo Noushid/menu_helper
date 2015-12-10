@@ -3,7 +3,11 @@
 use of menu helper
 
 ->define your menu
+
 example ->
+
+
+
 protected $menu = [
         'home' => [
             'title' => 'Home',
@@ -21,4 +25,6 @@ protected $menu = [
   
   
   call render function
+  
+  
   $menu = render_menu($this->menu, your class, current class));
