@@ -1,0 +1,31 @@
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
+*/.idea/*
+*/cache/*
+*/config/*
+*/core/*
+*/helpers/*
+*/hooks/*
+*/.htaccess
+*/index.html
+*/language/*
+*/libraries/*
+*/logs/*
+*/models/*
+*/third_party/*
+*/views/*
+
+
+	*/composer.json
+	*/contributing.md
+	*/index.php
+	*/license.txt
+	*/readme.rst
+	*/system/*
+	*/user_guide/*
+
+
