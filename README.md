@@ -9,17 +9,29 @@ example ->
 
 
 protected $menu = [
+
         'home' => [
+        
             'title' => 'Home',
+            
             'class' => 'menu'
+            
         ],
+        
         'about' => [
+        
             'title' => 'About',
+            
             'class' => '<your class>'
+            
         ],
+        
         'service' => [
+        
             'title' => 'Service'
+            
         ]
+        
     ]; 
     
   
