@@ -5,27 +5,27 @@
 */cache/!index.html
 */cache/!.htaccess
 */.idea/*
-*/cache/*
-*/config/*
-*/core/*
-*/helpers/*
-*/hooks/*
-*/.htaccess
-*/index.html
-*/language/*
-*/libraries/*
-*/logs/*
-*/models/*
+application/cache/*
+application/config/*
+application/core/*
+application/hooks/*
+application/.htaccess
+application/index.html
+application/language/*
+application/libraries/*
+application/logs/*
+application/models/*
 */third_party/*
 */views/*
+*/system/*
 
 
-	*/composer.json
-	*/contributing.md
-	*/index.php
-	*/license.txt
-	*/readme.rst
-	*/system/*
-	*/user_guide/*
+*/composer.json
+*/contributing.md
+*/index.php
+*/license.txt
+*/readme.rst
+*/system/*
+*/user_guide/*
 
 
