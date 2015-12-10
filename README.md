@@ -9,7 +9,7 @@ example ->
 
 
 
-protected $menu = [
+        protected $menu = [
 
         'home' => [
         
